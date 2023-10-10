@@ -1,0 +1,61 @@
+body{background-color: rgb(0, 0, 0);}
+h1{font-size: larger;
+color: rgb(255, 255, 255); 
+text-align: center;}
+p{font-size: medium;
+color: rgb(255, 255, 255);
+text-align: justify;
+}
+img{width: 300px !important;
+    height: 300px !important;
+margin: 5%;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+li{ 
+    font-size: 30px;
+    color: aliceblue;
+}
+ul{
+    border: 5px solid rgb(69, 7, 214);
+}
+.cabecalho{
+    background-color: #03108a;
+}
+.logobarbearia{
+    width: 150px !important;
+    height: 150px !important;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-top: 150px;
+}
+.item_lista_cabecalho{
+    color: rgb(253, 252, 252);
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 20px;
+}
+.cabecalho{
+    background-color: black;
+    display: flex;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.item_lista_cabecalho{
+    color: aliceblue;
+    padding-left: 15px;
+    text-transform: uppercase;
+    font-size: 25px;
+    list-style: none;
+}
